@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sideways</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="rotate">Rotate</string>
+    <string name="restart">Restart</string>
+</resources>
